@@ -1,2 +1,1 @@
-# devops-integration
-devops-integration purpose
+# devops-automation
